@@ -1,5 +1,6 @@
 # excite-go
 Excite Server in Go
 
-# Experiment
-An attempt to structure a generic basic GO web server
+# What For?
+- Go playground
+- An attempt to structure a generic scalable Go web server

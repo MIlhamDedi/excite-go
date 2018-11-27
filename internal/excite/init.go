@@ -1,4 +1,4 @@
-package events
+package excite
 
 import (
 	"fmt"
