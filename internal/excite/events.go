@@ -39,3 +39,8 @@ func SaveAndReadCard() {
 	e2, _ := model.ReadCard("Testevent")
 	fmt.Println(string(e2.Description))
 }
+
+// HandleFunc is handler to return all events
+func HandleFunc(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "Hello, World")
+}
