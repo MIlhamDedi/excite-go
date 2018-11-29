@@ -1,13 +1,10 @@
 package main
 
 import (
-	"github.com/milhamdedi/excite-go/internal/excite"
+	"github.com/milhamdedi/excite-go/internal"
 )
 
 func main() {
-	// import applications here
-	app := new(excite.Application)
-
-	// start applications here
+	app := new(internal.Application)
 	app.Start()
 }
