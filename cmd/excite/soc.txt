@@ -1,0 +1,1 @@
+Google Summer of Code is a global program focused on bringing more student developers into open source software development.
